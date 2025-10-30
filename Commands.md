@@ -1,3 +1,5 @@
+***For Copying a repo to another repo completely***
+
 ```bash
 # 1. Go to a folder where you want to store the mirror temporarily
 cd ~/Desktop   # or any path you like
