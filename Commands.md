@@ -1,4 +1,4 @@
-***For Copying a repo to another repo completely***
+### For Copying a repo to another repo completely
 
 ```bash
 # 1. Go to a folder where you want to store the mirror temporarily
@@ -16,3 +16,7 @@ git remote add new-origin https://github.com/yourusername/CD.git
 # 5. Push all branches, tags, etc., to the new repo
 git push new-origin --mirror
 ```
+
+
+### For representing a fraction
+   **$\frac{1}{1 + e^{-x}}$**
