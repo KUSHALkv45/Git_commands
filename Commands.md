@@ -19,4 +19,4 @@ git push new-origin --mirror
 
 
 ### For representing a fraction
-   **$\frac{1}{1 + e^{-x}}$**
+   *$*\frac{1} {1 + e^{-x}} $ 
